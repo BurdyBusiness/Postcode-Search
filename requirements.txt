@@ -1,8 +1,6 @@
 streamlit
-<<<<<<< HEAD:Requirements.txt
 requests
-=======
 pandas
 requests
 supabase==2.3.4
->>>>>>> 823ec80a27b61bb4ae863e5671f96afbcd94513b:requirements.txt
+
